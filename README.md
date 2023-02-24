@@ -24,9 +24,9 @@
 - Initialiser un dépôt GIT dans le dossier du projet
 - Créer un fichier `index.html` et un fichier `style.css`
 
-### 1. Donner une alternative textuelle aux images
-
-#### 1.1 Baliser dans le fichier `index.html` les images du dossier `1-textes-alternatifs`
+<!-- ### 1. Donner une alternative textuelle aux images -->
+<!--
+#### 1.1 Baliser dans le fichier `index.html` les images du dossier `1-textes-alternatifs` -->
 
 Pour vous guider dans le choix des balises, des attributs et des valeurs d'attributs, utiliser l'arbre de décision et référez-vous aux notes de cours.
 

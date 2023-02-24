@@ -1,0 +1,12 @@
+.ex1 {
+  height: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.ex1-img {
+  width: 250px;
+  min-height: auto;
+}
