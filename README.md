@@ -24,9 +24,9 @@
 - Initialiser un dépôt GIT dans le dossier du projet
 - Créer un fichier `index.html` et un fichier `style.css`
 
-<!-- ### 1. Donner une alternative textuelle aux images -->
-<!--
-#### 1.1 Baliser dans le fichier `index.html` les images du dossier `1-textes-alternatifs` -->
+### 1. Donner une alternative textuelle aux images -->
+
+#### 1.1 Baliser dans le fichier `index.html` les images du dossier `1-textes-alternatifs`
 
 Pour vous guider dans le choix des balises, des attributs et des valeurs d'attributs, utiliser l'arbre de décision et référez-vous aux notes de cours.
 
@@ -36,19 +36,17 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air
 
----
+--- Les texte alt sont placé dans des caption sous la photo.
+
+--- Ils sont bien fait mais il serait intéressant d'avoir la couleur de la chaussure dans le texte.
 
 ---
-
----
-
-[capture-écran]()
 
 - https://amzn.to/2NnbKPN
 
----
+--- Pour les étoiles, le span a un alt ''3.2 out of 5''
 
----
+--- Le texte pour chaque photo est complet et contient beaucoup d;information qui aidera la personne a choisir si il visite la page ou pas.
 
 ---
 
@@ -56,19 +54,19 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 - https://www.lesoleil.com/
 
----
+--- les photos ont des alt très clair: alt="Un suspect de leurre aurait fait 18 victimes d’âge mineur"
 
----
+--- Il pourrait etre mentionné que c'est un article ou des informations sur l'auteur.
 
----
+--- L'image n'est pas décrite, il est impossible pour un aveugle de savoir qu'il s'agit d'une voiture de police en face d'une école.
 
 [capture-écran]()
 
 - https://www.rad.ca/
 
----
+--- ici les images ne sont pas identifiés non plus. C'est impossible de savoir par le nom du fichier ce qui arrive sur la photo.
 
----
+--- Les images sont des background image et n'ont aucun ALT
 
 ---
 
