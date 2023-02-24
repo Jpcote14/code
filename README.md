@@ -5,7 +5,7 @@
 - Jean-Philippe Côté
 - Prénom nom
 
-## Objectifs
+## Objectifs31
 
 - Expérimenter le versionnage de fichiers avec GIT
 - Acquérire des compétences en accessibilité des contenus
