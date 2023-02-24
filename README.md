@@ -104,11 +104,11 @@ Sinon, expliquez le problème en vous basant sur les règles de base énoncées 
 
 Réponse :
 
----
+--- Si le sujet de la page est un tuto pour faire des forumlaire, il est correct de l`appellé H1, tant qu'il ne revient pas plusieurs fois.
 
----
+--- Si chaque sous-titre ont la meme hauteur dans la hierarchie il est correct de les appellé h2. Par contre si la section ''why is this important?'' est une sous section de ''A note on time limits'' il faut que ce soit un H3..
 
----
+--- La section ''help improve this page'' devrait etre un H3 ou un autre tag car elle n'a pas la meme force que les éléments plus haut et elle n'a aucun lien avec le sujet, elle doit meme etre dans plusieurs pages.
 
 **L’affaire Savtchenko**
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -116,11 +116,11 @@ Réponse :
 
 Réponse :
 
----
+--- Non ce n'est pas bien, il ne faut pas avoir 2 H1 dans la meme page.
 
----
+--- le 1er H1 n'a aucun texte..
 
----
+--- Il aurait fallu faire un seul H1 puis transformer les h1 en H2 et ensuite suivre la hierarchie des H 3-4-5-6.
 
 #### 3.2 S'exercer à bien structurer
 
